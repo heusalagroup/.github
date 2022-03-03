@@ -1,9 +1,9 @@
 # Heusala Group
 
-We are a Finnish software company specialized in reliable & robust ReactJS, NodeJS and TypeScript development.
+We are a Finnish software company providing reliable & robust software development.
 
-Our software is documented at [docs.hg.fi](https://docs.hg.fi).
+We focus on ReactJS, NodeJS and TypeScript.
 
-Index page for our projects available at [hg.fi](https://hg.fi).
+Our software architecture is documented at [docs.hg.fi](https://docs.hg.fi).
 
-See also [heusalagroup.fi](https://heusalagroup.fi) for our official website.
+See also directory for our projects at [hg.fi](https://hg.fi) and our official website [heusalagroup.fi](https://heusalagroup.fi) (in finnish only).
