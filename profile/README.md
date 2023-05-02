@@ -1,9 +1,12 @@
-# Heusala Group
+# Heusala Group Ltd
 
-We are a Finnish software company providing reliable & robust software development.
+Heusala Group is an agile and reliable partner for building your high-end software solutions. We specialize in creating custom-based software and online services to meet your every business need.
 
-We focus on ReactJS, NodeJS and TypeScript.
+At Heusala Group, we believe on building software solutions that are build to last. That is why we work actively with your team, to ensure that together we will create a product that will support your business for years to come.
 
-Our software architecture is documented at [docs.hg.fi](https://docs.hg.fi).
+Let us build the future of your business into a code.
 
-See also directory for our projects at [hg.fi](https://hg.fi) and our official website [heusalagroup.fi](https://heusalagroup.fi) (in finnish only).
+* Join our [Discord](https://discord.gg/UBTrHxA78f) to discuss about our software!
+* Our software architecture is documented at [docs.hg.fi](https://docs.hg.fi).
+* Quick look what our software is about at [hg.fi](https://hg.fi)
+* Read more about us from our official website [www.heusalagroup.fi](https://www.heusalagroup.fi)
