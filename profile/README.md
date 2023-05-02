@@ -7,6 +7,6 @@ At Heusala Group, we believe on building software solutions that are build to la
 Let us build the future of your business into a code.
 
 * Join our [Discord](https://discord.gg/UBTrHxA78f) to discuss about our software!
-* Our software architecture is documented at [docs.hg.fi](https://docs.hg.fi)
-* Quick look what our software is about at [hg.fi](https://hg.fi)
-* Read more about us from our official website [www.heusalagroup.fi](https://www.heusalagroup.fi)
+* Take a quick look what it's all about at [hg.fi](https://hg.fi)
+* See our technical documentation at [docs.hg.fi](https://docs.hg.fi)
+* Learn about our business from our official website [heusalagroup.fi](https://www.heusalagroup.fi)
