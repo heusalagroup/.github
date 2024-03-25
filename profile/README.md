@@ -7,6 +7,6 @@ At Heusala Group, we believe on building software solutions that are build to la
 Let us build the future of your business into a code.
 
 * Join our [Discord](https://discord.gg/UBTrHxA78f) to discuss about our software!
-* Take a quick look what it's all about at [hg.fi](https://hg.fi)
+* Take a quick look about our open source projects at [hyperifyio](https://github.com/hyperifyio)
 * See our technical documentation at [docs.hg.fi](https://docs.hg.fi)
 * Learn about our business from our official website [heusalagroup.fi](https://www.heusalagroup.fi)
